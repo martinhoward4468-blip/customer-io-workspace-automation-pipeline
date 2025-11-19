@@ -1,0 +1,3 @@
+textfastapi
+uvicorn
+pyyaml
