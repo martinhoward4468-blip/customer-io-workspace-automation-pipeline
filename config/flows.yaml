@@ -1,0 +1,3 @@
+yamlflows:
+ welcome_flow:
+ segment: new_user
