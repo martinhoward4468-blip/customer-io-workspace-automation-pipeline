@@ -1,0 +1,4 @@
+yamlrules:
+ new_user:
+ field: event_type
+ equals: user_signup
