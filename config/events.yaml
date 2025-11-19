@@ -1,0 +1,8 @@
+yamlevent_schema:
+ type: str
+ user_id: int
+
+mappings:
+ user_signup:
+ id: user_id
+ event_type: type
